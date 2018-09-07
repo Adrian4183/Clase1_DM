@@ -1,3 +1,5 @@
-# Clase1_DM
-#diseño mecatronico
+﻿# Clase1_DM
+# Diseño Mecatronico
+*
 
+*Nombre: hola
