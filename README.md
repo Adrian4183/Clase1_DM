@@ -1,5 +1,6 @@
 ﻿# Clase1_DM
 # Diseño Mecatronico
 
-*Nombre: mundo
+*Nombre: Mundo
+*Edad: 84
 
